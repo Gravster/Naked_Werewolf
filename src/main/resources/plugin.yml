@@ -1,0 +1,17 @@
+name: Suponpon_Jinrou
+version: '1.0-SNAPSHOT'
+main: gravaster.supopo.WerewolfGame
+api-version: '1.19'
+author: Gravaster
+description: A Minecraft Werewolf game plugin.
+
+commands:
+  startgame:
+    description: ゲームを開始します。
+    usage: /startgame
+  setarmor:
+    description: 装備を設定します。
+    usage: /setarmor
+  stopgame:
+    description: ゲームを終了します。
+    usage: /stopgame

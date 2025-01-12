@@ -1,0 +1,17 @@
+equipment:
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    amount: 1
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    amount: 1
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    amount: 1
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    amount: 1
